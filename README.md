@@ -10,3 +10,5 @@ I will be posting here about my research and personal projects to learn more abo
 - Frameworks: PyTorch, Scikit-learn , OpenCV
 
 
+## 📫 Contact
+- Email : w.son@ufl.edu
