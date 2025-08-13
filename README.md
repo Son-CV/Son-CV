@@ -5,10 +5,5 @@ I will be posting here about my research and personal projects to learn more abo
 - 🔬 Research interests: Segmentation, Object Detection, 6D Pose Estimation, Deep Learning
 
 
-## 🔧 Skills
-- Languages: Python, C++
-- Frameworks: PyTorch, Scikit-learn , OpenCV
-
-
 ## 📫 Contact
 - Email : w.son@ufl.edu
